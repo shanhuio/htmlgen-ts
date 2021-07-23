@@ -1,11 +1,8 @@
-.PHONY: tsc fmt dist
+.PHONY: compile dist
 
-tsc: 
-	tsc
+compile:
+	npm run prepare
 
-fmt:
-	tsfmt -r `find ./src -name "*.tsx"`
-
-dist: tsc
+dist:
 	npm pack
 	mv shanhuio-htmlgen-0.0.0.tgz htmlgen.tgz
