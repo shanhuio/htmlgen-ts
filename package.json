@@ -1,5 +1,5 @@
 {
-    "name": "@shanhuio/htmlgen",
+    "name": "@shanhuio/lib-htmlgen",
     "version": "0.0.0",
     "description": "HTML template generation library",
     "main": "dist/index.js",
