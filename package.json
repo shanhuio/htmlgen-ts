@@ -16,16 +16,16 @@
     "license": "AGPL3",
     "private": false,
     "dependencies": {
-        "@types/mkdirp": "^1.0.1",
-        "@types/node": "^18.11.13",
-        "@types/react": "^17.0.11",
-        "@types/react-dom": "^17.0.7",
-        "fs": "*",
+        "@types/mkdirp": "^1.0.2",
+        "@types/node": "^18.11.18",
+        "@types/react": "^17.0.52",
+        "@types/react-dom": "^17.0.18",
+        "fs": "^0.0.1-security",
         "mkdirp": "^1.0.4",
         "path": "^0.12.7",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
-        "react-markdown": "^6.0.2",
+        "react-markdown": "^6.0.3",
         "rehype-raw": "^5.1.0"
     }
 }
