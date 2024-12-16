@@ -17,7 +17,7 @@
     "private": false,
     "dependencies": {
         "@types/mkdirp": "^1.0.2",
-        "@types/node": "^18.11.18",
+        "@types/node": "^22.10.2",
         "@types/react": "^17.0.52",
         "@types/react-dom": "^17.0.18",
         "fs": "^0.0.1-security",
